@@ -1,0 +1,38 @@
+Objective Answers
+1.b
+2.c
+3.b
+4.b
+5.d
+6.d
+7.a 
+8.d
+9.c
+10.a 
+11.d
+
+Theory Part
+1.What is Git and why is it important?
+Git is a DevOps tool that allows multiple developers to work on a project simultaneously without interfering with each other's changes.
+Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+Git is important because it is data loss resilient and allows you to revert to previous versions if necessary.
+
+2.Steps to Create and Push your Project to GitHub repo
+
+Step 1: Create a GitHub Account and Sign up on GitHub
+Step 2: Create a New Repository on GitHub and give it a name
+Step 3: Set Up Git on Your Local Machine by using the following commands: git config --global user.name "Your Name"
+git config --global user.email "your email address"
+
+Step 4:Initialize a new Git repository locally using git init command
+
+Step 5: Add Files to the Repository after making needed changes or additions
+
+Step 6: Commit Your Changes using git commit -m "commit name"
+
+Step 7: Link Your Local Repository to GitHub using git remote add origin https://github.com/
+
+Step 8: Finally,push Your Changes to GitHub using git push -u origin main
+
+
+
